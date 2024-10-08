@@ -33,7 +33,7 @@ public class Empleado extends Persona{
         this.puesto = puesto;
     }
     
-     @Override
+    @Override
     public void agregar(){
     System.out.println("Codigo empleado: "+this.getCodigo_empleado());
     System.out.println("Nombre"+this.getPuesto());
