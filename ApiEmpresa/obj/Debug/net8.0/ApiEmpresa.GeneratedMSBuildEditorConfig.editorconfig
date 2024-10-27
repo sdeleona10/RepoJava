@@ -17,11 +17,51 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ApiEmpresa
 build_property.RootNamespace = ApiEmpresa
-build_property.ProjectDir = C:\Users\deleo\OneDrive\Escritorio\ApiEmpresa\
+build_property.ProjectDir = C:\Users\deleo\OneDrive\Documentos\NetBeansProjects\ApiEmpresa\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\deleo\OneDrive\Escritorio\ApiEmpresa
+build_property.MSBuildProjectDirectory = C:\Users\deleo\OneDrive\Documentos\NetBeansProjects\ApiEmpresa
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/deleo/OneDrive/Documentos/NetBeansProjects/ApiEmpresa/Views/CLientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/deleo/OneDrive/Documentos/NetBeansProjects/ApiEmpresa/Views/CLientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/deleo/OneDrive/Documentos/NetBeansProjects/ApiEmpresa/Views/CLientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/deleo/OneDrive/Documentos/NetBeansProjects/ApiEmpresa/Views/CLientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/deleo/OneDrive/Documentos/NetBeansProjects/ApiEmpresa/Views/CLientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/deleo/OneDrive/Documentos/NetBeansProjects/ApiEmpresa/Views/Proveedores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/deleo/OneDrive/Documentos/NetBeansProjects/ApiEmpresa/Views/Proveedores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/deleo/OneDrive/Documentos/NetBeansProjects/ApiEmpresa/Views/Proveedores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/deleo/OneDrive/Documentos/NetBeansProjects/ApiEmpresa/Views/Proveedores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/deleo/OneDrive/Documentos/NetBeansProjects/ApiEmpresa/Views/Proveedores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
